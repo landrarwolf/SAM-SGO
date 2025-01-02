@@ -1,1 +1,0 @@
-bar3(Accuracy(1:7,:))
